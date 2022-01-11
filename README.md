@@ -2,7 +2,7 @@
 - 👀 I’m interested in embedded systems, machine learning, and quantum computers
 - 🌱 I’m currently learning Java and working with embedded systems
 - 💞️ I’m looking to collaborate on ...
-- 📫 you can reach me through email or linkedin
+- 📫 you can reach me through, email or linkedin
       email: marwanmashaly@gmail.com
       linkedin: https://www.linkedin.com/in/marwan-mashaly-1b1a33204/
 
